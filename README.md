@@ -1,5 +1,5 @@
 # Code for Dynamic Spectral Clustering with Provable Approximation Guarantee
-This repository provides the code to reproduce the experimental results in our paper
+This repository contains code to accompany the paper "Dynamic Spectral Clustering with Provable Approximation Guarantee", published in ICML 2024.
 
 ## Installing Dependencies
 Because we use the `graph-tool` package, we highly recommend using `conda` to install dependencies for ease of installation. To install the dependencies using conda, run
