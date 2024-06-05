@@ -1,0 +1,25 @@
+name: dynamic_SC
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - graph-tool=2.59
+  - graph-tool-base=2.59
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - cairo
+  - pycairo
+  - pygobject
+  - joblib
+  - pip
+  - pip:
+    - charset-normalizer==3.3.2
+    - emnist==0.0
+    - idna==3.6
+    - requests==2.31.0
+    - tqdm==4.66.1
+    - urllib3==2.1.0
